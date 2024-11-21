@@ -10,7 +10,8 @@
         "alwaysStrict": true,
         "removeComments": true,
         "preserveWatchOutput": true,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "skipLibCheck": true,
     },
     "include":[
         "./src/**/*"
